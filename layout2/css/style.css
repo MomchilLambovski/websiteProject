@@ -1,0 +1,39 @@
+#container {
+    width: 1164px;
+    margin: auto;
+}
+
+
+header {
+    background-color: darkblue;
+    width: 100%;
+    display: inline-block;
+    box-sizing: border-box;
+    height: 1em;
+}
+
+#section1 {
+    background-color: purple;
+    width: 21.5%;
+    display: inline-block;
+    height: 13.5em;
+    box-sizing: border-box;
+    margin-right: 5px;
+}
+
+#section2 {
+    background-color: green;
+    width: 77%;
+    height: 13.5em;
+    box-sizing: border-box;
+    float: right;
+    margin: auto;
+}
+
+footer {
+    background-color: blue;
+    width: 100%;
+    display: inline-block;
+    box-sizing: border-box;
+    height: 1em;
+}
