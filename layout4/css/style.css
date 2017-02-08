@@ -1,0 +1,38 @@
+#container {
+    width: 1164px;
+    margin: auto;
+}
+
+header {
+    width: 50%;
+    background-color: slategray;
+    display: inline-block;
+    box-sizing: border-box;
+    height: 3em;
+}
+
+#section1 {
+    width: 10%;
+    margin-right: 5px;
+    background-color: fuchsia;
+    height: 13em;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+#section2 {
+    width: 38.8%;
+    margin-left: 5px;
+    background-color: lawngreen;
+    height: 13em;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+footer {
+    width: 50%;
+    background-color: blue;
+    display: inline-block;
+    box-sizing: border-box;
+    height: 3em;
+}
