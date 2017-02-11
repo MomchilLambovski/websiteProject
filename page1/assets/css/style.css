@@ -8,6 +8,16 @@ body {
     margin: auto;
 }
 
+@media scr and (max-width:320){
+    #container {
+        width: 300px;
+        box-sizing: border-box;
+    }
+    #contentNav > ul > li {
+        width: 100%;
+    }
+}
+
 #searchBoxTop {
     padding-top: 2px;
     margin: auto;

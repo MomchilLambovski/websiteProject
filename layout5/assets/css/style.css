@@ -123,6 +123,8 @@ main aside {
     display: block;
     box-sizing: border-box;
     height: 400px;
+    text-align: right;
+    font-weight: bolder;
 }
 
 
